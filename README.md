@@ -6,7 +6,7 @@ This repository contains my DataCamp projects, showcasing hands-on experience wi
 
 Each project folder contains:
 - `notebook.ipynb` — The main Jupyter notebook with the project work
-- `dataset/` — Any datasets used in the project
+- `.csv file dataset/` — Any datasets used in the project
 - `images/` (optional) — Any images linked in the notebook
 
 ## Notes
